@@ -77,3 +77,40 @@ You can add screenshots below to show what the output looks like:
 - Be sure to exclude your actual client_secret.json from public uploads
 
 .gitignore recommendation:
+
+---
+
+## 🧠 Use Cases
+
+- Backing up Google Contacts
+- Analyzing your network with pandas
+- Feeding contact data into CRM tools or analytics dashboards
+
+---
+
+## 🎁 Bonus Feature
+
+- Google Sheets integration for real-time cloud backup
+
+---
+
+## ✅ To-Do (Ideas for Future Improvements)
+
+- Add filtering for only starred/frequent contacts
+- Group contacts by domain (e.g., gmail.com, yahoo.com)
+- Visualize contact frequency by location or labels
+- Integrate with Google Drive or Gmail APIs
+
+---
+
+## 📎 License
+
+MIT License. You’re free to use, modify, and share.
+
+---
+
+## 🙌 Acknowledgments
+
+- Google People API Docs: https://developers.google.com/people
+- Google API Python Client Library
+
