@@ -103,12 +103,6 @@ You can add screenshots below to show what the output looks like:
 
 ---
 
-## 📎 License
-
-MIT License. You’re free to use, modify, and share.
-
----
-
 ## 🙌 Acknowledgments
 
 - Google People API Docs: https://developers.google.com/people
