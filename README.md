@@ -64,8 +64,6 @@ This project allows you to extract Google Contacts using the Google People API a
 - contacts_export.xlsx (saved locally or downloadable from Colab)
 - A new Google Sheet with all your contacts
 
-You can add screenshots below to show what the output looks like:
-
 
 ---
 
