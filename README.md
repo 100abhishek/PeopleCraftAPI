@@ -66,7 +66,6 @@ This project allows you to extract Google Contacts using the Google People API a
 
 You can add screenshots below to show what the output looks like:
 
-![Sample Output Screenshot](path_to_your_screenshot.png)
 
 ---
 
